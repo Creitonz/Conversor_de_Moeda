@@ -21,9 +21,9 @@ public class UserMessage {
 
     public String getInitialMessage(){
         return """
-                *******************************************
+                ******************************************
                 Seja bem-vindo/a ao Conversor de Moeda 
-                *******************************************
+                ******************************************
                 
                 1) Dólar americano   => Euro
                 2) Euro              => Dólar americano
@@ -34,7 +34,7 @@ public class UserMessage {
                 7) Sair
                 
                 Escolha uma opção válida:
-                *******************************************
+                ******************************************
                 """;
     }
     public String getChoiceMessage(int option){
