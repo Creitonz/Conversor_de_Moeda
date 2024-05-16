@@ -23,6 +23,7 @@ public class UserMessage {
         return """
                 *******************************************
                 Seja bem-vindo/a ao Conversor de Moeda 
+                *******************************************
                 
                 1) Dólar americano   => Euro
                 2) Euro              => Dólar americano
